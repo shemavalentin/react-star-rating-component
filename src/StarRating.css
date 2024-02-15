@@ -1,0 +1,12 @@
+.star-container {
+    display: flex;
+
+}
+
+.star{
+    font-size: 40px;
+}
+
+.star.active {
+    color: yellow;
+}
